@@ -3,6 +3,7 @@
 > 仅发布编译好的固件二进制，**本仓库不包含任何源代码**。
 
 运行在 M5Stack Cardputer ADV（ESP32-S3）上的图形化玄学工具集，深蓝星盘仪表盘风格。内置算法完全离线可用，支持手机配网与大模型 AI 解读（可选）。
+<img width="1536" height="1536" alt="337dbee1934b83377b7f6df13894c9f9" src="https://github.com/user-attachments/assets/51e655f3-eb7e-4e8a-932b-53994be677c2" />
 
 ## 功能特色
 
