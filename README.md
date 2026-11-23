@@ -52,8 +52,9 @@ esptool.py --chip esp32s3 --port <串口> --baud 921600 write_flash 0x0 m5adv-fo
 
 ### 方式三：AI Agent（最简单）
 下载本仓库 Releases 中的 `m5adv-fortune-v56.bin`（完整合并镜像）
+```
 发给AI：将这个固件烧录到m5adv中
-
+```
 ## 固件校验（v56）
 
 - 大小：2,086,112 字节
